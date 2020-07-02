@@ -1,0 +1,5 @@
+\.gitignore$
+\.ico$
+\.png$
+\.pub$
+\.lock$
